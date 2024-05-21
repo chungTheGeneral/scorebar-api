@@ -1,16 +1,52 @@
 {
-  "posts":[
+  "players": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "name": "鍾子文",
+      "handicap": -4,
+      "score": 11,
+      "gameWon": 1,
+      "highBreak": 28,
+      "id": "1",
+      "active": true,
+      "ballRack": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        8
+      ],
+      "branch": "TM"
+    },
+    {
+      "name": "蔡劍華",
+      "handicap": -7,
+      "score": 0,
+      "gameWon": 0,
+      "highBreak": 21,
+      "id": "2",
+      "active": false,
+      "ballRack": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "branch": "TW"
     }
   ],
-  "comments" : [
+  "game": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "1",
+      "Title": "香港英式桌球公開賽2024-第1站",
+      "TotalGame": "9",
+      "ColorScheme": "gold"
     }
   ]
 }
