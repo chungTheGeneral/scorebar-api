@@ -1,8 +1,8 @@
 {
   "players": [
     {
-      "name": "鍾子文",
-      "handicap": -4,
+      "name": "甘庭亮",
+      "handicap": 0,
       "score": 11,
       "gameWon": 1,
       "highBreak": 28,
@@ -18,11 +18,11 @@
         1,
         8
       ],
-      "branch": "TM"
+      "branch": "TKW"
     },
     {
-      "name": "蔡劍華",
-      "handicap": -7,
+      "name": "敖遠洋",
+      "handicap": 8,
       "score": 0,
       "gameWon": 0,
       "highBreak": 21,
@@ -45,7 +45,7 @@
     {
       "id": "1",
       "Title": "名將盃2025--筲箕灣站",
-      "TotalGame": "7",
+      "TotalGame": "9",
       "ColorScheme": "gold"
     }
   ]
