@@ -1,8 +1,8 @@
 {
   "players": [
     {
-      "name": "馮俊軒",
-      "handicap": 0,
+      "name": "黃國權",
+      "handicap": 32,
       "score": 0,
       "gameWon": 0,
       "highBreak": 0,
@@ -18,11 +18,11 @@
         1,
         8
       ],
-      "branch": "TP"
+      "branch": "TM"
     },
     {
-      "name": "甘庭亮",
-      "handicap": 0,
+      "name": "袁劼",
+      "handicap": 34,
       "score": 0,
       "gameWon": 0,
       "highBreak": 0,
@@ -44,8 +44,8 @@
   "game": [
     {
       "id": "1",
-      "Title": "香港英式桌球公開賽(3)",
-      "TotalGame": "7",
+      "Title": "名將盃大埔站決賽",
+      "TotalGame": "9",
       "ColorScheme": "gold"
     }
   ]
